@@ -30,8 +30,6 @@ PyAutoGUI
 PyGetWindow
 PyJWT
 PyMsgBox
-pyobjc
-pyobjc-core
 pyperclip
 PyRect
 pyscreenshot
